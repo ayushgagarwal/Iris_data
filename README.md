@@ -6,4 +6,6 @@ Therefore, in this project, I have found that species and seperated it from the 
 I converted one of the species into the other just to have 2 seperate species. These two were not linearly seperable and hence they were combined to differentiate it from the 3rd species.
 repl={"Species":{"Iris-versicolor":"Iris-virginica"}}
 
-Moreover, I have done a number of visualizations using Tableau and I have uploaded the file for the same. That file will only open using Tableau.
+Moreover, I have done a number of visualizations using Tableau and I have uploaded the file.
+
+Check it out :)
